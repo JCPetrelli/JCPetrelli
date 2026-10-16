@@ -42,7 +42,6 @@ Software Engineer and Video Designer based in Berlin. I build tools for [Claude 
 | [audio-filter](https://github.com/JCPetrelli/audio-filter) | Real-time voice changer for macOS. Routes the mic through Python effects into Teams, Zoom or QuickTime. |
 | [amazon-order-reporter](https://github.com/JCPetrelli/amazon-order-reporter) | Chrome extension that exports amazon.de order history as a per-item CSV. |
 | [powderpaint](https://github.com/JCPetrelli/powderpaint) | Flask framework that turns Markdown files into slideshows, with 7 layouts and video support. |
-| [FunctionStore_tools](https://github.com/JCPetrelli/FunctionStore_tools) | Workflow and UX tools for TouchDesigner. |
 | [the_whisperer](https://github.com/JCPetrelli/the_whisperer) | Wrapper for Whisper to transcribe and translate videos. |
 | [prompt_manager](https://github.com/JCPetrelli/prompt_manager) | CLI to manage multiple prompts for ChatGPT and other LLMs. |
 
